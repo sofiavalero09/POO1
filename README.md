@@ -1,2 +1,2 @@
-# POO
+# POO.
 Progrmacion orientada a objetos 
